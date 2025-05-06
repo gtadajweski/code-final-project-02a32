@@ -17,10 +17,10 @@
   }
 }
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, $primary, $secondary);
+  background-image: linear-gradient(to right, #fff8eb, #b8b42d);
 }
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, $primary, $secondary);
+  background-image: linear-gradient(to bottom, #fff8eb, #b8b42d);
 }
 .strip-primary {
   background-color: #fff8eb;
