@@ -3,10 +3,10 @@
   background-repeat: no-repeat;
 }
 .strip-white {
-  background-color: white;
+  background-color: #fff8eb;
 }
 .strip-grey {
-  background-color: $white-offset;
+  background-color: #fff8eb;
 }
 .strip-diagonal {
   transform: skewY(5deg);
@@ -23,10 +23,10 @@
   background-image: linear-gradient(to bottom, $primary, $secondary);
 }
 .strip-primary {
-  background-color: $primary;
+  background-color: #fff8eb;
 }
 .strip-secondary {
-  background-color: $secondary;
+  background-color: #fff8eb;
 }
 
 .strip-diagonal-right {
