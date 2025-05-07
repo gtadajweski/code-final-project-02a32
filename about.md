@@ -3,7 +3,10 @@ title: About
 layout: page
 description: About
 bodyClass: page-about
-intro_image: "images/illustrations/IMG_9711.jpg"
+intro_image: "images/illustrations/thumbnail_IMG_1267.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
+show_call_box: true
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
