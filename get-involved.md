@@ -1,7 +1,7 @@
 ---
-title: Get involved
+title: Get Involved
 layout: services
-description: Get involved
+description: Get Involved
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
