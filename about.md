@@ -2,27 +2,27 @@
 title: About
 layout: page
 description: About
-bodyClass: page-about
 intro_image: "images/illustrations/thumbnail_IMG_1267.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
+bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+I'm happy you're here! Lebanon is happy you're here.
+
+Thank you for visiting my simple site, because there should be nothing complex about being an active community member. 
 
 
-# Objectives
+# Goals
 
-Financial accounting and financial reporting are often used as synonyms.
+So, what is Loving Lebanon doing here? Loving Lebanon, which is basically just a compilation of resources, was designed with three hopes in mind:
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. Encourage residents to volunteer their time with a local organization they are passionate about.
+2. Help residents make connections with their neighbors to make getting involved in a new hobby or pursueing an old passion more joyous.
+3. Connect residents with local giving societies that align with their interests.
 
-## Relevance
+## But why?
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 
