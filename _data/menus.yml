@@ -1,6 +1,6 @@
 main:
-  - name: "Get involved"
-    url: "/getinvolved/"
+  - name: "Services"
+    url: "/services/"
     weight: 2
   - name: "Team"
     url: "/team/"
