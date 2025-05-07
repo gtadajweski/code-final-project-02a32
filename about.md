@@ -3,13 +3,13 @@ title: About
 layout: page
 description: About
 bodyClass: page-about
+intro_image: "images/illustrations/IMG_9711.jpg"
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-intro_image: "images/illustrations/IMG_9711.jpg"
 
 # Objectives
 
