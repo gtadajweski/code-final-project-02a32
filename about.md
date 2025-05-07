@@ -4,8 +4,10 @@ layout: page
 description: About
 intro_image: "images/illustrations/thumbnail_IMG_1267.jpg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 show_call_box: true
+---
+---
 bodyClass: page-about
 ---
 
@@ -13,6 +15,9 @@ I'm happy you're here! Lebanon is happy you're here.
 
 Thank you for visiting my simple site, because there should be nothing complex about being an active community member. 
 
+## Put a Face to Words
+
+Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
 # Goals
 
@@ -29,10 +34,6 @@ Relevance is the capacity of the financial information to influence the decision
 > The ingredients of relevance are the predictive value and confirmatory value.
 
 Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
 ## Enhancing Community
 
