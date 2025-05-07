@@ -2,7 +2,7 @@
 title: Loving Lebanon
 layout: home
 description: Loving Lebanon connects residents with resources
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/homepic"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
