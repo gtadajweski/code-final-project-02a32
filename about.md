@@ -22,7 +22,7 @@ So, what is Loving Lebanon doing here? Loving Lebanon, which is basically just a
 2. Help residents make connections with their neighbors to make getting involved in a new hobby or pursueing an old passion more joyous.
 3. Connect residents with local giving societies that align with their interests.
 
-## But why?
+## But Why?
 
 Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
 
@@ -34,20 +34,23 @@ Information is considered material if its omission or misstatement could influen
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
 
-## Enhancing Qualitative Characteristics
+## Enhancing Community
 
-### Verifiability
+### Understanding
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+A firm grasp on a particular state.
 
-### Comparability
+### Compassion
 
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+Awareness of the distress of others accompanied by a desire to alleviate it.
 
-### Understandability
+### Patience
 
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+The ability to withstand trials calmly or without complaint.
+
+### Togetherness
+
+A state of being a uniifed whole.
 
 ---
 
