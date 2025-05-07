@@ -2,7 +2,7 @@
 title: About
 layout: page
 description: About
-intro_image: "images/illustrations/thumbnail_IMG_1267.jpg"
+intro_image: "images/illustrations/thumbnail_IMG_1267.JPG"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true
