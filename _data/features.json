@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "What makes a home?",
+    "description": "We all call Lebanon home, and we should all be proud to do so.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Do you know your neighbors?",
+    "description": "Neighborhoods are shared. Take time to know those who surround you.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "How does your community serve you?",
+    "description": "What do you give to get?",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
