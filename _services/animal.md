@@ -13,9 +13,9 @@ Business advisory involves reporting on performance as well as advising on strat
 
 # Volunteer
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://lebanonhumane.org/volunteering/" target="_blank">Humane Society of Lebanon County</a>
+Lebanon county's only animal shelter
+> Community service volunteers must be at least 18 years of age
 
 # Join
 
