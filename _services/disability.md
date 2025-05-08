@@ -28,9 +28,9 @@ Description
 
 # Donate
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://www.ddslebanon.org/support/heritage-club/" target="_blank">Developmental & Disability Services of Lebanon Valley</a>
+Organization connecting those with disabilities to jobs, education, and services
+> Join the Heritage Club
 
 ----
 
