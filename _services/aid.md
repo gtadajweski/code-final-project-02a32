@@ -10,10 +10,20 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 
 # Volunteer
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Visit Example</a>
+### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
+Description
+> any extra info
 
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-> <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Visit Example</a>
+# Join
 
+### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
+Description
+> any extra info
+
+# Donate
+
+### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
+Description
+> any extra info
 
 ----
