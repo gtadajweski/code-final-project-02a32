@@ -12,9 +12,9 @@ crimen habet Priamum nec.
 
 # Volunteer
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://www.wepaempowercenter.org/volunteer" target="_blank">WEPA Empowerment Center</a>
+Center providing education and workforce development to empower individuals
+> Multilingual opportunities
 
 # Join
 
