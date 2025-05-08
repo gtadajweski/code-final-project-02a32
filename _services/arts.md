@@ -14,7 +14,7 @@ cadet
 # Volunteer
 
 ### <a href="https://www.lebanoncommunitytheatre.org/volunteer" target="_blank">Lebanon Community Theatre</a>
-1962 company situation in "The Barn"
+1962 company situated in "The Barn"
 > Opportunities to help with all stages of theater production
 
 # Join
@@ -25,9 +25,12 @@ Description
 
 # Donate
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://www.gretnatheatre.org/support" target="_blank">Gretna Theatre</a>
+Oldest national summer theater
+> Multiple donation options
 
+### <a href="https://www.lebanoncommunitytheatre.org/memberships" target="_blank">Lebanon Community Theatre</a>
+1962 company situated in "The Barn"
+> Offering platinum, gold, and student memberships
 ----
 
