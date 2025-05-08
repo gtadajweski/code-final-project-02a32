@@ -17,6 +17,10 @@ Business advisory involves reporting on performance as well as advising on strat
 Lebanon county's only animal shelter
 > Community service volunteers must be at least 18 years of age
 
+### <a href="https://wolfsanctuarypa.org/wolf-sanctuary-pa-volunteer-program/" target="_blank">Wolf Sanctuary of PA</a>
+Reserve home to displaced wolves
+> Volunteers must be 18 and older
+
 # Join
 
 ### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
