@@ -118,11 +118,6 @@ body {
   }
 }
 
-<div class="logo">
-  <img src="{{ '/assets/images/logo.svg.png' | relative_url }}" class="logo-desktop" alt="Desktop Logo">
-  <img src="{{ '/assets/images/logo-mobile.svg.png' | relative_url }}" class="logo-mobile" alt="Mobile Logo">
-</div>
-
 /* Hide mobile logo by default */
 .logo .logo-mobile {
   display: none;
