@@ -32,6 +32,8 @@ So, what is Loving Lebanon doing here? Loving Lebanon, which is basically just a
 
 ## Enhancing Community
 
+I believe that living somewhere should be about more than simply being a resident. To live in Lebanon should undoubtedly be to know, serve, and love Lebanon. Through volunteering, shared spaces, and donation, I believe we can enhance commmunity in Lebanon, reminding us all to find the good in ourselves to love and support our neighbors.
+
 ### Understanding
 
 A firm grasp on a particular state.
