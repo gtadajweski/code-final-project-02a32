@@ -39,13 +39,6 @@
       }
     }
 
-    .hamburger-inner,
-    .hamburger-inner::before,
-    .hamburger-inner::after {
-      background-color: #AF5D63;
-    }
-  }
-}
 
 .hamburger-box {
   width: $hamburger-layer-width;
@@ -64,7 +57,7 @@
   &::after {
     width: $hamburger-layer-width;
     height: $hamburger-layer-height;
-    background-color: $hamburger-layer-color;
+    background-color: #AF5D63;
     border-radius: $hamburger-layer-border-radius;
     position: absolute;
     transition-property: transform;
