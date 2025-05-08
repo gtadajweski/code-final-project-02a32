@@ -4,9 +4,7 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Support the maitenance of Lebanon's forested natural environment!
 
 ![Environment](/images/illustrations/IMG_4688.jpg)
 
@@ -21,9 +19,8 @@ All-volunteer conservation organization
 
 # Join
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://www.kta-hike.org/hiking-clubs.html" target="_blank">Keystone Trails Association</a>
+Lebanon Valley Hiking Club
 
 # Donate
 
