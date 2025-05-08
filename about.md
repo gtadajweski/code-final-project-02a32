@@ -2,6 +2,10 @@
 title: About
 layout: page
 description: About
+intro_image: "{{ site.baseurl }}images/illustrations/thumbnail_IMG_1267.JPG"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
+show_call_box: true
 bodyClass: page-about
 ---
 
@@ -12,14 +16,7 @@ Thank you for visiting my simple site, because there should be nothing complex a
 ## The Face Behind the Words
 
 Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
----
 
-intro_image: "images/illustrations/thumbnail_IMG_1267.JPG"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
-show_call_box: true
-bodyClass: page-about
-----
 # Goals
 
 So, what is Loving Lebanon doing here? Loving Lebanon, which is basically just a compilation of resources, was designed with three hopes in mind:
