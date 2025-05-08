@@ -6,7 +6,6 @@ intro_image: "{{ site.baseurl }}images/illustrations/thumbnail_IMG_1267.JPG"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true
-bodyClass: page-about
 ---
 
 I'm happy you're here! Lebanon is happy you're here.
