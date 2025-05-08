@@ -4,10 +4,7 @@ date: 2019-04-18T12:33:46+10:00
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Support both Lebanon's healthcare workers and those in medical need!
 
 ![Medical](/images/illustrations/IMG_7951.jpg)
 
@@ -20,17 +17,5 @@ Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
 ### <a href="https://sarccheals.org/community-engagement/" target="_blank">Sexual Assault Resource and Counseling Center</a>
 Center aiding those affected by sexual assault
 > Direct service, prevention education, and community council service opportunities
-
-# Join
-
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
-
-# Donate
-
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
 
 ----
