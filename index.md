@@ -6,6 +6,7 @@ intro_image: "images/illustrations/IMG_9711.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
+<link rel="icon" href="logo-mobile.svg.png" type="image/x-icon">
 ---
 
 # Loving Lebanon — Becoming More Than a Resident
