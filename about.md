@@ -2,10 +2,6 @@
 title: About
 layout: page
 description: About
-intro_image:  "https://lovinglebanon.netlify.app/images/illustrations/thumbnail_IMG_1267.jpg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: false
-show_call_box: true
 ---
 
 I'm happy you're here! Lebanon is happy you're here.
