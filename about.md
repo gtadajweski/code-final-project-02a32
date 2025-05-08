@@ -14,6 +14,8 @@ Thank you for visiting my simple site, because there should be nothing complex a
 
 ## The Face Behind the Words
 
+![Photo of Grace](/images/illustrations/thumbnail_IMG_1267.jpg)
+
 My name is Grace, and I'm a proud resident of Lebanon's West Cornwall. Best 17 years of my life!! Currently, I'm a sophomore at the University of Notre Dame studying American Studies and Film, Television, and Theatre. After leaving Pennsylvania for Indiana almost two years ago, I had two realizations. 
 
 > Lebanon, PA is pretty darn awesome. While I was still a Pennsylvania phanatic when I lived within its borders full time, living just about 600 miles away from my home really cemented my passion for the state, and Lebanon. Time makes the heart grow fonder, or so they say. 
