@@ -9,7 +9,7 @@ vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
 nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet
 
-![Arts](/images/illustrations/IMG_0965.jpg)
+![Arts](/IMG_2749.jpg)
 
 # Volunteer
 
