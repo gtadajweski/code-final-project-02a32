@@ -24,8 +24,8 @@ Description
 
 # Donate
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://lebanon.lclibs.org/support-the-library/" target="_blank">Lebanon Community Library</a>
+Public library offering books, classes, and more.
+> Become a Friend of the Library
 
 ----
