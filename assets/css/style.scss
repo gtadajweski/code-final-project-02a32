@@ -147,14 +147,8 @@ body {
   }
 }
 
-/* Desktop logo */
-.logo-desktop img {
-  max-width: 100%; /* Adjust as needed */
-  height: auto;
-}
-
-/* Mobile logo */
-.logo-mobile img {
-  max-width: 100%; /* Adjust as needed */
+/* Ensure logos maintain aspect ratio */
+.logo img {
+  max-width: 100%;
   height: auto;
 }
