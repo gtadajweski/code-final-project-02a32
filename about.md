@@ -14,7 +14,13 @@ Thank you for visiting my simple site, because there should be nothing complex a
 
 ## The Face Behind the Words
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+My name is Grace, and I'm a proud resident of Lebanon's West Cornwall. Best 17 years of my life!! Currently, I'm a sophomore at the University of Notre Dame studying American Studies and Film, Television, and Theatre. After leaving Pennsylvania for Indiana almost two years ago, I had two realizations. 
+
+> Lebanon, PA is pretty darn awesome. While I was still a Pennsylvania phanatic when I lived within its borders full time, living just about 600 miles away from my home really cemented my passion for the state, and Lebanon. Time makes the heart grow fonder, or so they say. 
+
+> Giving back to Lebanon becomes a very deliberate choice after high school graduation. In high school, it seemed almost easy to fall into the groove of service clubs and organizations that do an annual donation or volunteer day. After graduating high school and leaving behind Key Club, it seemed like I my service to Lebanon had suddenly been cut off. Following my freshman year of college, I returned to Lebanon for the summer and quickly immersed myself in service to the Wolf Sanctuary of PA, and seemingly finding my groove again.
+
+Returning to Notre Dame for my sophomore year, the impact of service and my love for Lebanon stayed strong. After learning about the history of comuputing and coding skills in my spring semester course "Code in Context," I decided to create Loving Lebanon as my final project for the course.
 
 # Goals
 
