@@ -118,10 +118,35 @@ body {
   }
 }
 
-// Logo
-.logo img {
-  max-width: 100%;
+//Logo
+/* Hide desktop logo on mobile */
+@media (max-width: 768px) {
+  .logo.svg.png {
+    display: none;
+  }
+  .logo-mobile.svg.png {
+    display: block;
+  }
+}
+
+/* Hide mobile logo on desktop */
+@media (min-width: 769px) {
+  .logo.svg.png {
+    display: block;
+  }
+  .logo-mobile.svg.png {
+    display: none;
+  }
+}
+
+/* Desktop logo */
+.logo.svg.png img {
+  max-width: 100%; /* Adjust as needed */
   height: auto;
-  display: block;
-  margin: 0 auto;
+}
+
+/* Mobile logo */
+.logo-mobile.svg.png img {
+  max-width: 100%; /* Adjust as needed */
+  height: auto;
 }
