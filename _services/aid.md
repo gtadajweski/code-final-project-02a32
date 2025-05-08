@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Help others in need
+Support residents of Lebanon who are in need!
 
 ![Aid](/images/illustrations/IMG_0367.jpg)
 
