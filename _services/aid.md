@@ -18,6 +18,10 @@ Religious ministry providing care to low-income residents
 Mission caring for those in need since 1945
 > Wide range of volunteer opportunities including at a clinic, family shelter, men's shelter, office, churches, and special events
 
+### <a href="https://www.makingadifferenceoflebanonpa.org/volunteer" target="_blank">Making a Difference of Lebanon, PA</a>
+Non-profit serving youth, veterans, and those in need
+> Diverse events
+
 # Join
 
 ### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
