@@ -118,35 +118,48 @@ body {
   }
 }
 
-//Logo
-/* Hide desktop logo on mobile */
+<div class="logo">
+  <img src="{{ '/assets/images/logo.svg.png' | relative_url }}" class="logo-desktop" alt="Desktop Logo">
+  <img src="{{ '/assets/images/logo-mobile.svg.png' | relative_url }}" class="logo-mobile" alt="Mobile Logo">
+</div>
+
+/* Hide mobile logo by default */
+.logo .logo-mobile {
+  display: none;
+}
+
+/* Show mobile logo on small screens */
 @media (max-width: 768px) {
-  .logo.svg.png {
+  .logo .logo-desktop {
     display: none;
   }
-  .logo-mobile.svg.png {
+  .logo .logo-mobile {
     display: block;
+    width: 100%; /* Adjust as needed */
+    height: auto;
   }
 }
 
-/* Hide mobile logo on desktop */
+/* Show desktop logo on larger screens */
 @media (min-width: 769px) {
-  .logo.svg.png {
+  .logo .logo-desktop {
     display: block;
+    width: 100%; /* Adjust as needed */
+    height: auto;
   }
-  .logo-mobile.svg.png {
+  .logo .logo-mobile {
     display: none;
   }
 }
 
 /* Desktop logo */
-.logo.svg.png img {
+.logo-desktop img {
   max-width: 100%; /* Adjust as needed */
   height: auto;
 }
 
 /* Mobile logo */
-.logo-mobile.svg.png img {
+.logo-mobile img {
   max-width: 100%; /* Adjust as needed */
   height: auto;
 }
