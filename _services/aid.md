@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Help others in need
 
 ![Aid](/images/illustrations/IMG_0367.jpg)
 
@@ -24,17 +24,5 @@ Mission caring for those in need since 1945
 ### <a href="https://www.makingadifferenceoflebanonpa.org/volunteer" target="_blank">Making a Difference of Lebanon, PA</a>
 Non-profit serving youth, veterans, and those in need
 > Diverse events
-
-# Join
-
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
-
-# Donate
-
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
 
 ----
