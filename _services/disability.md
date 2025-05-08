@@ -4,10 +4,7 @@ date: 2019-05-18T12:33:46+10:00
 weight: 7
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Support disabled individuals in Lebanon!
 
 ![Disability](/images/illustrations/IMG_9635.jpg)
 
@@ -22,9 +19,9 @@ Group encouraging those with disabilities to pursue athletics
 
 # Join
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://www.decpa.org/what-we-do" target="_blank">Disability Empowerment Center</a>
+Centers serving Lancaster and Lebanon Counties
+> Take advantage of five core services
 
 # Donate
 
