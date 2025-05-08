@@ -4,7 +4,7 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
-Support the maitenance of Lebanon's forested natural environment!
+Support the maintenance of Lebanon's forested natural environment!
 
 ![Environment](/images/illustrations/IMG_4688.jpg)
 
