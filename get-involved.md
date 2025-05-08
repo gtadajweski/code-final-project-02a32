@@ -8,6 +8,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# What getting involved in Lebanon can look like
+# What Getting Involved in Lebanon Can Look Like
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Interested in exploring volunteer, group, and donation membership options in Lebanon? Take a look around based on your interests!
