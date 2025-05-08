@@ -4,10 +4,7 @@ date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Support Lebanon's creatives!
 
 ![Arts](/IMG_2749.jpg)
 
@@ -19,9 +16,9 @@ cadet
 
 # Join
 
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
+### <a href="https://www.thestjamesplayers.org/blank" target="_blank">The St. James Players</a>
+Accepting theater based out of a local church
+> Audition for inclusive, community shows
 
 # Donate
 
