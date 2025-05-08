@@ -18,12 +18,6 @@ Lebanon county's only animal shelter
 Forested reserve home to displaced wolves
 > Volunteers must be 18 and older
 
-# Join
-
-### <a href="https://chatgpt.com/?hints=search&model=auto" target="_blank">Name</a>
-Description
-> any extra info
-
 # Donate
 
 ### <a href="https://wolfsanctuarypa.org/donate/" target="_blank">Wolf Sanctuary of PA</a>
