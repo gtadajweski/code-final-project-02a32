@@ -9,6 +9,9 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 ![Aid](/images/illustrations/IMG_0367.jpg)
 
 # Volunteer
+### <a href="https://www.jub.org/volunteer" target="_blank">Jubilee Ministries</a>
+Connecting incarcerated people with religious resources
+> Offering retail, special project, prison, and aftercare service
 
 ### <a href="https://www.lccm.us/volunteer.html" target="_blank">Lebanon County Christian Ministries</a>
 Religious ministry providing care to low-income residents
