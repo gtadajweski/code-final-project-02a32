@@ -4,7 +4,7 @@ date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-Support animals in Lebanon County
+Support animals in Lebanon County!
 
 ![Animal](/images/illustrations/IMG_0965.jpg)
 
